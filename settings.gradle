@@ -1,0 +1,2 @@
+rootProject.name='RestAPIDemo2'
+include ':app'
